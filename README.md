@@ -33,4 +33,4 @@ Final note: I'm a Mr T fan, as you will see in the user interaction flow.
 
 
 
-![alt text](https://github.com/abstractmachines/CTimedTypingTest/blob/master/screenshot-typing.png}
+![alt text](https://github.com/abstractmachines/CTimedTypingTest/blob/master/screenshot-typing.png)
