@@ -1,6 +1,6 @@
 # A timed typing test in C.
 
-using time.h structs + functionality.
+Using time.h structs + functionality. Dev tools: vim, gdb. Environment: linux.
 
 
 SCOPE OF THE GAME :
