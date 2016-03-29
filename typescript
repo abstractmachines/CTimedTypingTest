@@ -1,0 +1,47 @@
+Script started on Sat 26 Mar 2016 09:20:42 PM PDT
+machina@ada:~/fabcodez/cdir/a1-submit/5/machina$ whoami
+machina
+machina@ada:~/fabcodez/cdir/a1-submit/5/machina$ gcc typingSpeed.c
+machina@ada:~/fabcodez/cdir/a1-submit/5/machina$ ./a.out
+Pity the fool who can't type quickly! Let's begin. 
+
+
+Type the following words, sucka! 
+
+word 1 is the
+the
+Well done! You can pity the fool, instead of being the fool.
+word 2 is quick
+THE   THEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHEHHREHJHREHK
+Pain!! You messed up that word. Try again! 
+word 2 is quick
+quick
+Well done! You can pity the fool, instead of being the fool.
+word 3 is brown
+brown
+Well done! You can pity the fool, instead of being the fool.
+word 4 is dog
+dog
+Well done! You can pity the fool, instead of being the fool.
+word 5 is fox
+fox
+Well done! You can pity the fool, instead of being the fool.
+word 6 is jumps
+jumps
+Well done! You can pity the fool, instead of being the fool.
+word 7 is lazy
+lazy
+Well done! You can pity the fool, instead of being the fool.
+word 8 is The
+The
+Well done! You can pity the fool, instead of being the fool.
+word 9 is over
+over
+Well done! You can pity the fool, instead of being the fool.
+Game over! You have been TIMED! 
+You took this long
+ 913346 microseconds 
+machina@ada:~/fabcodez/cdir/a1-submit/5/machina$ exit
+exit
+
+Script done on Sat 26 Mar 2016 09:21:19 PM PDT
